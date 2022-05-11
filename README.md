@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jun
-- 👀 I’m interested in advancing my skills in data analytics and learn to program
+- 👀 I’m interested in advancing my skills in data analytics and learn SQL, Tableau, power BI, R programming and python
 - 🌱 I’m currently learning how to use github 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me jgan010@gmail.com
